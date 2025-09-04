@@ -1,0 +1,3 @@
+﻿Jag vill lära mig att programmera. Lära mig grunderna som jag sedan kan ta vidare i andra språk än C#
+Jag vill lära mig C# såpas bra att jag kan jobba med det.
+Jag vill lära mig Databaser och språk för att manipulera de. Lära mig att prata mellan C# och databaser.
